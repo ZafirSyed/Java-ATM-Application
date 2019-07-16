@@ -1,0 +1,103 @@
+ATVI, Activision Blizzard Inc,48.22
+ADBE, Adobe Inc.,109.02
+AMD, Advanced Micro Devices Inc.,38.37
+ALXN, Alexion Pharmaceuticals Inc.,84.45
+ALGN, Align Technology Inc.,110.36
+GOOG, Alphabet Inc.,622.74
+GOOGL, Alphabet Inc.,5522.82
+AMZN, Amazon.com Inc.,580.5
+AAL, American Airlines Group Inc.,23.3
+AMGN, Amgen Inc.,140.94
+ADI, Analog Devices Inc.,78.96
+AAPL, Apple Inc.,134.11
+AMAT, Applied Materials Inc.,27.03
+ASML, ASML Holding N.V.,104.0
+ADSK, Autodesk Inc.,58.22
+ADP, Automatic Data Processing Inc.,137.64
+BIDU, Baidu Inc.,167.4
+BIIB, Biogen Inc.,800.46
+BMRN, BioMarin Pharmaceutical Inc.,66.36
+BKNG, Booking Holdings Inc.,1173.66
+AVGO, Broadcom Inc.,337.53
+CDNS, Cadence Design Systems Inc.,158.45
+CELG, Celgene Corporation,49.0
+CERN, Cerner Corporation,54.16
+CHTR, Charter Communications Inc.,190.73
+CHKP, Check Point Software Technologies Ltd.,173.46
+CTAS, Cintas Corporation,663.79
+CSCO, Cisco Systems Inc.,16.66
+CTXS, Citrix Systems Inc.,16.66
+CTSH, Cognizant Technology Solutions Corporation,21.8
+CMCSA, Comcast Corporation,28.4
+COST, Costco Wholesale Corporation,218.93
+CSX, CSX Corporation,43.87
+CTRP, Ctrip.com International Ltd.,76.56
+DLTR, Dollar Tree Inc.,141.53
+EBAY, eBay Inc.,40.03
+EA, Electronic Arts Inc.,129.47
+EXPE, Expedia Group Inc.,91.99
+FB, Facebook Inc.,262.75
+FAST, Fastenal Company,63.6
+FISV, Fiserv Inc.,140.97
+GILD, Gilead Sciences Inc.,133.72
+HAS, Hasbro Inc.,42.98
+HSIC, Henry Schein Inc.,100.26
+IDXX, IDEXX Laboratories Inc.,103.93
+ILMN, Illumina Inc.,522.36
+INCY, Incyte Corporation,64.24
+INTC, Intel Corporation,15.33
+INTU, Intuit Inc.,164.76
+ISRG, Intuitive Surgical Inc.,589.4
+JBHT, J.B. Hunt Transport Services Inc.,104.62
+JD, JD.com Inc.,11.77
+KLAC, KLA-Tencor Corporation,157.19
+LRCX, Lam Research Corporation,99.97
+LBTYA, Liberty Global plc,15.99
+LBTYK, Liberty Global plc,7.35
+LULU, lululemon athletica inc.,329.87
+MAR, Marriott International,42.8
+MXIM, Maxim Integrated Products Inc.,13.52
+MELI, MercadoLibre Inc.,247.65
+MCHP, Microchip Technology Incorporated,51.97
+MU, Micron Technology Inc.,82.36
+MSFT, Microsoft Corporation,86.41
+MDLZ, Mondelez International Inc.,38.28
+MNST, Monster Beverage Corporation,33.11
+MYL, Mylan N.V.,12.19
+NTAP, NetApp Inc.,39.79
+NTES, NetEase Inc.,350.56
+NFLX, Netflix Inc.,316.55
+NVDA, NVIDIA Corporation,400.15
+NXPI, NXP Semiconductors N.V.,43.41
+ORLY, O'Reilly Automotive Inc.,167.1
+PCAR, PACCAR Inc.,21.25
+PAYX, Paychex Inc.,33.83
+PYPL, PayPal Holdings Inc.,115.69
+PEP, Pepsico Inc.,190.65
+QCOM, QUALCOMM Incorporated,51.13
+REGN, Regeneron Pharmaceuticals Inc.,505.52
+ROST, Ross Stores Inc.,97.5
+SIRI, Sirius XM Holdings Inc.,5.62
+SWKS, Skyworks Solutions Inc.,75.84
+SBUX, Starbucks Corporation,27.19
+SYMC, Symantec Corporation,23.49
+SNPS, Synopsys Inc.,86.9
+TMUS, T-Mobile US Inc.,26.9
+TTWO, Take-Two Interactive Software Inc.,80.31
+TSLA, Tesla Inc.,240.46
+TXN, Texas Instruments Incorporated,102.24
+KHC, The Kraft Heinz Company,18.48
+FOX, Twenty-First Century Fox Inc.,58.62
+FOXA, Twenty-First Century Fox Inc.,15.77
+ULTA, Ulta Beauty Inc.,46.1
+UAL, United Continental Holdings Inc.,29.81
+VRSN, VeriSign Inc.,146.46
+VRSK, Verisk Analytics Inc.,36.85
+VRTX, Vertex Pharmaceuticals Incorporated,133.84
+WBA, Walgreens Boots Alliance Inc.,42.85
+WDC, Western Digital Corporation,9.13
+WLTW, Willis Towers Watson Public Limited Company,74.34
+WDAY, Workday Inc.,360.21
+WYNN, Wynn Resorts Limited,63.03
+XEL, Xcel Energy Inc.,86.2
+XLNX, Xilinx Inc.,97.55
